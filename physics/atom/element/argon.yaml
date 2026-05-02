@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 18
+          symbol:
+            value: Ar
+          atomic_mass:
+            value: 39.948
+          group:
+            value: 18
+          period:
+            value: 3
+          category:
+            value: noble gas
+          electron_configuration:
+            value: "[Ne] 3s2 3p6"

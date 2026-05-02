@@ -1,0 +1,23 @@
+- is:
+    type: physics/atom
+- has:
+    atomic_number:
+      type: num
+- has:
+    symbol:
+      type: str
+- has:
+    atomic_mass:
+      type: physics/unit/si/amu
+- has:
+    group:
+      type: num
+- has:
+    period:
+      type: num
+- has:
+    category:
+      type: str
+- has:
+    electron_configuration:
+      type: str

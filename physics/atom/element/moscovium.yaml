@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 115
+          symbol:
+            value: Mc
+          atomic_mass:
+            value: 290
+          group:
+            value: 15
+          period:
+            value: 7
+          category:
+            value: unknown
+          electron_configuration:
+            value: "[Rn] 5f14 6d10 7s2 7p3"

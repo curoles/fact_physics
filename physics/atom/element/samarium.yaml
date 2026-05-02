@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 62
+          symbol:
+            value: Sm
+          atomic_mass:
+            value: 150.36
+          group:
+            value: 3
+          period:
+            value: 6
+          category:
+            value: lanthanide
+          electron_configuration:
+            value: "[Xe] 4f6 6s2"

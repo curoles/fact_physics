@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 47
+          symbol:
+            value: Ag
+          atomic_mass:
+            value: 107.868
+          group:
+            value: 11
+          period:
+            value: 5
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Kr] 4d10 5s1"

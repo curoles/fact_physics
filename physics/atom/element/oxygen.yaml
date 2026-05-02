@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 8
+          symbol:
+            value: O
+          atomic_mass:
+            value: 15.999
+          group:
+            value: 16
+          period:
+            value: 2
+          category:
+            value: nonmetal
+          electron_configuration:
+            value: "[He] 2s2 2p4"

@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 24
+          symbol:
+            value: Cr
+          atomic_mass:
+            value: 51.996
+          group:
+            value: 6
+          period:
+            value: 4
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Ar] 3d5 4s1"

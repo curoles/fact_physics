@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 11
+          symbol:
+            value: Na
+          atomic_mass:
+            value: 22.99
+          group:
+            value: 1
+          period:
+            value: 3
+          category:
+            value: alkali metal
+          electron_configuration:
+            value: "[Ne] 3s1"

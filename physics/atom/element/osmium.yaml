@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 76
+          symbol:
+            value: Os
+          atomic_mass:
+            value: 190.23
+          group:
+            value: 8
+          period:
+            value: 6
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Xe] 4f14 5d6 6s2"

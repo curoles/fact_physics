@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 34
+          symbol:
+            value: Se
+          atomic_mass:
+            value: 78.971
+          group:
+            value: 16
+          period:
+            value: 4
+          category:
+            value: nonmetal
+          electron_configuration:
+            value: "[Ar] 3d10 4s2 4p4"

@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 44
+          symbol:
+            value: Ru
+          atomic_mass:
+            value: 101.07
+          group:
+            value: 8
+          period:
+            value: 5
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Kr] 4d7 5s1"

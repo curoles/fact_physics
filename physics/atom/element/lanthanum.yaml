@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 57
+          symbol:
+            value: La
+          atomic_mass:
+            value: 138.905
+          group:
+            value: 3
+          period:
+            value: 6
+          category:
+            value: lanthanide
+          electron_configuration:
+            value: "[Xe] 5d1 6s2"

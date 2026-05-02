@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 36
+          symbol:
+            value: Kr
+          atomic_mass:
+            value: 83.798
+          group:
+            value: 18
+          period:
+            value: 4
+          category:
+            value: noble gas
+          electron_configuration:
+            value: "[Ar] 3d10 4s2 4p6"

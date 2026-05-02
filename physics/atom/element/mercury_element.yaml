@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 80
+          symbol:
+            value: Hg
+          atomic_mass:
+            value: 200.592
+          group:
+            value: 12
+          period:
+            value: 6
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Xe] 4f14 5d10 6s2"

@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 9
+          symbol:
+            value: F
+          atomic_mass:
+            value: 18.998
+          group:
+            value: 17
+          period:
+            value: 2
+          category:
+            value: halogen
+          electron_configuration:
+            value: "[He] 2s2 2p5"

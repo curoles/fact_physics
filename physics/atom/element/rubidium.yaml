@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 37
+          symbol:
+            value: Rb
+          atomic_mass:
+            value: 85.468
+          group:
+            value: 1
+          period:
+            value: 5
+          category:
+            value: alkali metal
+          electron_configuration:
+            value: "[Kr] 5s1"

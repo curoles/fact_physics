@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 49
+          symbol:
+            value: In
+          atomic_mass:
+            value: 114.818
+          group:
+            value: 13
+          period:
+            value: 5
+          category:
+            value: post-transition metal
+          electron_configuration:
+            value: "[Kr] 4d10 5s2 5p1"

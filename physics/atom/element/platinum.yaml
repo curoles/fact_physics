@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 78
+          symbol:
+            value: Pt
+          atomic_mass:
+            value: 195.084
+          group:
+            value: 10
+          period:
+            value: 6
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Xe] 4f14 5d9 6s1"

@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 55
+          symbol:
+            value: Cs
+          atomic_mass:
+            value: 132.905
+          group:
+            value: 1
+          period:
+            value: 6
+          category:
+            value: alkali metal
+          electron_configuration:
+            value: "[Xe] 6s1"

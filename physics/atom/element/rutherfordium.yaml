@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 104
+          symbol:
+            value: Rf
+          atomic_mass:
+            value: 267
+          group:
+            value: 4
+          period:
+            value: 7
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Rn] 5f14 6d2 7s2"

@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 99
+          symbol:
+            value: Es
+          atomic_mass:
+            value: 252
+          group:
+            value: 3
+          period:
+            value: 7
+          category:
+            value: actinide
+          electron_configuration:
+            value: "[Rn] 5f11 7s2"

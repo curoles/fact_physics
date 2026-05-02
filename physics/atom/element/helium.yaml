@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 2
+          symbol:
+            value: He
+          atomic_mass:
+            value: 4.003
+          group:
+            value: 18
+          period:
+            value: 1
+          category:
+            value: noble gas
+          electron_configuration:
+            value: "1s2"

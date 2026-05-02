@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 98
+          symbol:
+            value: Cf
+          atomic_mass:
+            value: 251
+          group:
+            value: 3
+          period:
+            value: 7
+          category:
+            value: actinide
+          electron_configuration:
+            value: "[Rn] 5f10 7s2"

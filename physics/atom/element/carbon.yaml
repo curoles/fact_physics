@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 6
+          symbol:
+            value: C
+          atomic_mass:
+            value: 12.011
+          group:
+            value: 14
+          period:
+            value: 2
+          category:
+            value: nonmetal
+          electron_configuration:
+            value: "[He] 2s2 2p2"

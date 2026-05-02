@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 13
+          symbol:
+            value: Al
+          atomic_mass:
+            value: 26.982
+          group:
+            value: 13
+          period:
+            value: 3
+          category:
+            value: post-transition metal
+          electron_configuration:
+            value: "[Ne] 3s2 3p1"

@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 109
+          symbol:
+            value: Mt
+          atomic_mass:
+            value: 278
+          group:
+            value: 9
+          period:
+            value: 7
+          category:
+            value: unknown
+          electron_configuration:
+            value: "[Rn] 5f14 6d7 7s2"

@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 86
+          symbol:
+            value: Rn
+          atomic_mass:
+            value: 222
+          group:
+            value: 18
+          period:
+            value: 6
+          category:
+            value: noble gas
+          electron_configuration:
+            value: "[Xe] 4f14 5d10 6s2 6p6"

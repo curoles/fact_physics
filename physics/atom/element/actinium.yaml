@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 89
+          symbol:
+            value: Ac
+          atomic_mass:
+            value: 227
+          group:
+            value: 3
+          period:
+            value: 7
+          category:
+            value: actinide
+          electron_configuration:
+            value: "[Rn] 6d1 7s2"

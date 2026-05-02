@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 16
+          symbol:
+            value: S
+          atomic_mass:
+            value: 32.06
+          group:
+            value: 16
+          period:
+            value: 3
+          category:
+            value: nonmetal
+          electron_configuration:
+            value: "[Ne] 3s2 3p4"

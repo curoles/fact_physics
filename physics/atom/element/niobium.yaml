@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 41
+          symbol:
+            value: Nb
+          atomic_mass:
+            value: 92.906
+          group:
+            value: 5
+          period:
+            value: 5
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Kr] 4d4 5s1"

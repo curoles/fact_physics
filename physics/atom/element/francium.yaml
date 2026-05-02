@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 87
+          symbol:
+            value: Fr
+          atomic_mass:
+            value: 223
+          group:
+            value: 1
+          period:
+            value: 7
+          category:
+            value: alkali metal
+          electron_configuration:
+            value: "[Rn] 7s1"

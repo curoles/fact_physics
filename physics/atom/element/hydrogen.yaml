@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 1
+          symbol:
+            value: H
+          atomic_mass:
+            value: 1.008
+          group:
+            value: 1
+          period:
+            value: 1
+          category:
+            value: nonmetal
+          electron_configuration:
+            value: "1s1"

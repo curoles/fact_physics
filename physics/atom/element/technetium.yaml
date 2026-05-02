@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 43
+          symbol:
+            value: Tc
+          atomic_mass:
+            value: 98
+          group:
+            value: 7
+          period:
+            value: 5
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Kr] 4d5 5s2"

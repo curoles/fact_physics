@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 74
+          symbol:
+            value: W
+          atomic_mass:
+            value: 183.84
+          group:
+            value: 6
+          period:
+            value: 6
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Xe] 4f14 5d4 6s2"

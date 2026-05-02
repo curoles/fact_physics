@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 67
+          symbol:
+            value: Ho
+          atomic_mass:
+            value: 164.93
+          group:
+            value: 3
+          period:
+            value: 6
+          category:
+            value: lanthanide
+          electron_configuration:
+            value: "[Xe] 4f11 6s2"

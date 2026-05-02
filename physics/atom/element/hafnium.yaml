@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 72
+          symbol:
+            value: Hf
+          atomic_mass:
+            value: 178.49
+          group:
+            value: 4
+          period:
+            value: 6
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Xe] 4f14 5d2 6s2"

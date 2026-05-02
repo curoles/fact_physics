@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 59
+          symbol:
+            value: Pr
+          atomic_mass:
+            value: 140.908
+          group:
+            value: 3
+          period:
+            value: 6
+          category:
+            value: lanthanide
+          electron_configuration:
+            value: "[Xe] 4f3 6s2"

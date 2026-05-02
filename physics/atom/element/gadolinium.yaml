@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 64
+          symbol:
+            value: Gd
+          atomic_mass:
+            value: 157.25
+          group:
+            value: 3
+          period:
+            value: 6
+          category:
+            value: lanthanide
+          electron_configuration:
+            value: "[Xe] 4f7 5d1 6s2"

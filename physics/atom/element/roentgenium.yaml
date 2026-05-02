@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 111
+          symbol:
+            value: Rg
+          atomic_mass:
+            value: 282
+          group:
+            value: 11
+          period:
+            value: 7
+          category:
+            value: unknown
+          electron_configuration:
+            value: "[Rn] 5f14 6d9 7s2"

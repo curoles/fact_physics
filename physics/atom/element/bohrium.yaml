@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 107
+          symbol:
+            value: Bh
+          atomic_mass:
+            value: 270
+          group:
+            value: 7
+          period:
+            value: 7
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Rn] 5f14 6d5 7s2"

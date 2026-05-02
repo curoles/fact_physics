@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 105
+          symbol:
+            value: Db
+          atomic_mass:
+            value: 268
+          group:
+            value: 5
+          period:
+            value: 7
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Rn] 5f14 6d3 7s2"

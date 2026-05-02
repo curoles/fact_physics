@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 19
+          symbol:
+            value: K
+          atomic_mass:
+            value: 39.098
+          group:
+            value: 1
+          period:
+            value: 4
+          category:
+            value: alkali metal
+          electron_configuration:
+            value: "[Ar] 4s1"

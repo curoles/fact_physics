@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 27
+          symbol:
+            value: Co
+          atomic_mass:
+            value: 58.933
+          group:
+            value: 9
+          period:
+            value: 4
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Ar] 3d7 4s2"

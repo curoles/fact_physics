@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 106
+          symbol:
+            value: Sg
+          atomic_mass:
+            value: 269
+          group:
+            value: 6
+          period:
+            value: 7
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Rn] 5f14 6d4 7s2"

@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 77
+          symbol:
+            value: Ir
+          atomic_mass:
+            value: 192.217
+          group:
+            value: 9
+          period:
+            value: 6
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Xe] 4f14 5d7 6s2"

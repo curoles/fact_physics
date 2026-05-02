@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 22
+          symbol:
+            value: Ti
+          atomic_mass:
+            value: 47.867
+          group:
+            value: 4
+          period:
+            value: 4
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Ar] 3d2 4s2"

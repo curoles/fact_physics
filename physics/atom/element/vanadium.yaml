@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 23
+          symbol:
+            value: V
+          atomic_mass:
+            value: 50.942
+          group:
+            value: 5
+          period:
+            value: 4
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Ar] 3d3 4s2"

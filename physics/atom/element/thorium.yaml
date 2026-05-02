@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 90
+          symbol:
+            value: Th
+          atomic_mass:
+            value: 232.038
+          group:
+            value: 3
+          period:
+            value: 7
+          category:
+            value: actinide
+          electron_configuration:
+            value: "[Rn] 6d2 7s2"

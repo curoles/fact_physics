@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 108
+          symbol:
+            value: Hs
+          atomic_mass:
+            value: 277
+          group:
+            value: 8
+          period:
+            value: 7
+          category:
+            value: transition metal
+          electron_configuration:
+            value: "[Rn] 5f14 6d6 7s2"

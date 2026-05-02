@@ -1,0 +1,18 @@
+- is:
+    type: physics/atom/element
+    as:
+      - physics/atom/element:
+          atomic_number:
+            value: 14
+          symbol:
+            value: Si
+          atomic_mass:
+            value: 28.086
+          group:
+            value: 14
+          period:
+            value: 3
+          category:
+            value: metalloid
+          electron_configuration:
+            value: "[Ne] 3s2 3p2"
