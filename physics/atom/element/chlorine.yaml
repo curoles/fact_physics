@@ -19,3 +19,7 @@
 - has:
     valence_subshell:
       type: physics/atom/subshell/3p
+- has:
+    wikipedia_url:
+      type: computer/sw/url
+      value: "https://en.wikipedia.org/wiki/Chlorine"
