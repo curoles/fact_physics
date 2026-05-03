@@ -16,3 +16,6 @@
             value: noble gas
           electron_configuration:
             value: "[Ne] 3s2 3p6"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/3p

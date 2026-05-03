@@ -16,3 +16,6 @@
             value: alkaline earth metal
           electron_configuration:
             value: "[Ar] 4s2"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/4s

@@ -16,3 +16,6 @@
             value: actinide
           electron_configuration:
             value: "[Rn] 5f11 7s2"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/5f

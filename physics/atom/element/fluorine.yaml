@@ -16,3 +16,6 @@
             value: halogen
           electron_configuration:
             value: "[He] 2s2 2p5"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/2p

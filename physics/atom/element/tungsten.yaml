@@ -16,3 +16,6 @@
             value: transition metal
           electron_configuration:
             value: "[Xe] 4f14 5d4 6s2"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/5d

@@ -16,3 +16,6 @@
             value: metalloid
           electron_configuration:
             value: "[He] 2s2 2p1"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/2p

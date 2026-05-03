@@ -16,3 +16,6 @@
             value: alkali metal
           electron_configuration:
             value: "[Ne] 3s1"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/3s

@@ -16,3 +16,6 @@
             value: metalloid
           electron_configuration:
             value: "[Ne] 3s2 3p2"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/3p

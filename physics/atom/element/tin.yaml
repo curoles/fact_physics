@@ -16,3 +16,6 @@
             value: post-transition metal
           electron_configuration:
             value: "[Kr] 4d10 5s2 5p2"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/5p

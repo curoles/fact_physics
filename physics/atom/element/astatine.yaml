@@ -16,3 +16,6 @@
             value: halogen
           electron_configuration:
             value: "[Xe] 4f14 5d10 6s2 6p5"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/6p

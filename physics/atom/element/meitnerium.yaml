@@ -16,3 +16,6 @@
             value: unknown
           electron_configuration:
             value: "[Rn] 5f14 6d7 7s2"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/6d

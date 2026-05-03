@@ -16,3 +16,6 @@
             value: nonmetal
           electron_configuration:
             value: "[He] 2s2 2p4"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/2p

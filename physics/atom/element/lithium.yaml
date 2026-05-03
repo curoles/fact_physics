@@ -16,3 +16,6 @@
             value: alkali metal
           electron_configuration:
             value: "[He] 2s1"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/2s

@@ -16,3 +16,6 @@
             value: lanthanide
           electron_configuration:
             value: "[Xe] 4f3 6s2"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/4f

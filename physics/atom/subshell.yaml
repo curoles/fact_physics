@@ -1,0 +1,17 @@
+- is: atomic subshell
+- has:
+    principal_quantum_number:
+      type: num
+- has:
+    angular_momentum_quantum_number:
+      type: num
+- has:
+    max_electrons:
+      type: num
+- has:
+    block:
+      type: str
+- has:
+    wikipedia_url:
+      type: computer/sw/url
+      value: "https://en.wikipedia.org/wiki/Electron_configurations_of_the_elements"

@@ -16,3 +16,6 @@
             value: noble gas
           electron_configuration:
             value: "1s2"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/1s

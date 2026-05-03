@@ -16,3 +16,6 @@
             value: alkaline earth metal
           electron_configuration:
             value: "[Kr] 5s2"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/5s

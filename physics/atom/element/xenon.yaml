@@ -16,3 +16,6 @@
             value: noble gas
           electron_configuration:
             value: "[Kr] 4d10 5s2 5p6"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/5p

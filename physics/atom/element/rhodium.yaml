@@ -16,3 +16,6 @@
             value: transition metal
           electron_configuration:
             value: "[Kr] 4d8 5s1"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/4d

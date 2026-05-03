@@ -16,3 +16,6 @@
             value: alkali metal
           electron_configuration:
             value: "[Rn] 7s1"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/7s

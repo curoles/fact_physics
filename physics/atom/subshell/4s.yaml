@@ -1,0 +1,12 @@
+- is:
+    type: physics/atom/subshell
+    as:
+      - physics/atom/subshell:
+          principal_quantum_number:
+            value: 4
+          angular_momentum_quantum_number:
+            value: 0
+          max_electrons:
+            value: 2
+          block:
+            value: s

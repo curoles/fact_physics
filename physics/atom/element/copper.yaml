@@ -16,3 +16,6 @@
             value: transition metal
           electron_configuration:
             value: "[Ar] 3d10 4s1"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/3d

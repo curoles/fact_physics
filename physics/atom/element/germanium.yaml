@@ -16,3 +16,6 @@
             value: metalloid
           electron_configuration:
             value: "[Ar] 3d10 4s2 4p2"
+- has:
+    valence_subshell:
+      type: physics/atom/subshell/4p
