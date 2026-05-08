@@ -22,7 +22,7 @@
       type: computer/sw/url
       value: "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion"
 - has:
-    expression:
+    expression_algebraic:
       type: math/expression
       as:
         - math/expression:
@@ -33,3 +33,18 @@
                 math/algebra/operation/multiply:
                   - mass
                   - acceleration
+- has:
+    expression_differential:
+      type: math/expression
+      as:
+        - math/expression:
+            expression_str:
+              value: "F(t) = m * d²x/dt²"
+            expression_yaml:
+              value: |
+                # FIXME TODO: needs derivative operation
+                math/algebra/operation/multiply:
+                  - mass
+                  - FIXME_second_derivative:
+                      function: position
+                      variable: t
